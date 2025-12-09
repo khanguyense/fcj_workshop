@@ -1,6 +1,6 @@
 ---
 title: "Internship Report"
-date: "`r Sys.Date()`"
+date: "2025-12-09"
 weight: 1
 chapter: false
 ---
@@ -8,30 +8,26 @@ chapter: false
     
 # Internship Report
 
-{{% notice warning %}}
-⚠️ **Note:** The information below is for reference purposes only. Please **do not copy verbatim** for your report, including this warning.
-{{% /notice %}}
-
 ### Student Information:
-&emsp; **Full Name:** Nguyen Van A
+&emsp; **Full Name:** Nguyen Tuan Kha 
 
-&emsp; **Phone Number:** 0989888999 
+&emsp; **Phone Number:** 0835173787 
 
-&emsp; **Email:** Anguyenvan@gmail.com
+&emsp; **Email:** khantse183212@fpt.edu.vn
 
-&emsp; **University:** Ho Chi Minh City University of Technology and Education
+&emsp; **University:** FPT University Ho Chi Minh campus
 
-&emsp; **Major:** Information Technology
+&emsp; **Major:**  Software Engineer
 
-&emsp; **Class:** AWS082025
+&emsp; **Class:** AWS092025
 
 &emsp; **Internship Company:** Amazon Web Services Vietnam Co., Ltd.
 
 &emsp; **Internship Position:** FCJ Cloud Intern
 
-&emsp; **Internship Duration:** From 12/08/2025 to 12/11/2025
+&emsp; **Internship Duration:** From 06/09/2025 to 09/12/2025
 
-![Your profile picture](/images/avatar.png)
+![Avatar](/static/images/01_AWS_profile.jpg)
 
 ### Report Content
 
